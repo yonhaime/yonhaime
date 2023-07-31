@@ -2,7 +2,8 @@
 📌 Ruby on Rails, StimulusJS, Tailwind & Hotwire<br>⚡ After Effects, Adobe Premier & Figma<br>⚔️ Videojuegos, Series & Peliculas
 
 ## 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=ruby)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
 ## 🌐 Socials:
