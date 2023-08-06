@@ -45,7 +45,6 @@
 
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=8e4bf1)
