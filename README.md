@@ -14,12 +14,13 @@
 ![SupaBase](https://img.shields.io/badge/-SupaBase-333333?style=flat&logo=supabase)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=da4662)
 ![Inertia](https://img.shields.io/badge/-Inertia_JS-333333?style=flat&logo=inertia&logoColor=8a67ec)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=459546)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=239ae2)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=459546)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=0080ff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=algolia)
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -51,7 +52,6 @@
 ![GitHubActions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github)
 ![NewRelic](https://img.shields.io/badge/-New_Relic-333333?style=flat&logo=newrelic)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
