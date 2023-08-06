@@ -15,7 +15,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=da4662)
 ![Inertia](https://img.shields.io/badge/-Inertia_JS-333333?style=flat&logo=inertia&logoColor=8a67ec)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=459546)
-![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=8e4bf1)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=459546)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
