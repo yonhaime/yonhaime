@@ -1,48 +1,71 @@
-<p align="center">
- <img style="height:250px" src="https://i.imgur.com/0rU0jlq.png" alt="Templarius"></a>
-</p>
+# About Me
+📌 Ruby on Rails, StimulusJS, Tailwind & Hotwire<br>⚡ After Effects, Adobe Premier & Figma<br>⚔️ Videojuegos, Series & Peliculas
 
-<h3 align="center">Templarius</h3>
-<p align="center">
- A simple template for creating a new Ruby On Rails application
-</p>
-
-<div align="center">
+## 💡 Tech Stack
 
 ![Rails](https://img.shields.io/badge/-Ruby_On_Rails-333333?style=flat&logo=rubygems)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=d3533e)
 ![RuboCop](https://img.shields.io/badge/-RuboCop-333333?style=flat&logo=rubocop)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=ff5d01)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=gradle&logoColor=239ae2)
+![PocketBase](https://img.shields.io/badge/-Pocket_Base-333333?style=flat&logo=pocketbase)
+![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![SupaBase](https://img.shields.io/badge/-SupaBase-333333?style=flat&logo=supabase)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=da4662)
+![Inertia](https://img.shields.io/badge/-Inertia_JS-333333?style=flat&logo=inertia&logoColor=8a67ec)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=239ae2)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=459546)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=0080ff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=algolia)
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![AlpineJS](https://img.shields.io/badge/-Alpine_JS-333333?style=flat&logo=alpine.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Stimulus](https://img.shields.io/badge/-Stimulus-333333?style=flat&logo=stimulus)
 ![Turbo](https://img.shields.io/badge/-Turbo-333333?style=flat&logo=turbo)
-![Vite JS](https://img.shields.io/badge/-Vite_JS-333333?style=flat&logo=vite&logoColor=ffca28)
-</div>
+![Livewire](https://img.shields.io/badge/-Livewire-333333?style=flat&logo=livewire&logoColor=cc6699)
+![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![ReactJS](https://img.shields.io/badge/-React_JS-333333?style=flat&logo=react)
+![VueJS](https://img.shields.io/badge/-Vue_JS-333333?style=flat&logo=vue.js)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
+![StoryBook](https://img.shields.io/badge/-Story_Book-333333?style=flat&logo=storybook)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=944058)
+![AstroJS](https://img.shields.io/badge/-Astro_JS-333333?style=flat&logo=astro)
+![Vite](https://img.shields.io/badge/-Vite_JS-333333?style=flat&logo=vite&logoColor=ffca28)
+![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
+![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
 
----
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=8e4bf1)
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+![GitHubActions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github)
+![NewRelic](https://img.shields.io/badge/-New_Relic-333333?style=flat&logo=newrelic)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
-### Backend
-- [Ruby](https://www.ruby-lang.org/de/) 3.2.2
-- [Ruby On Rails](https://rubyonrails.org/) 7.0.8
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=2479e7)
+![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
+![vscode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=visualstudio&logoColor=0080ff)
 
-### Frontend
-- [Hotwire](https://hotwire.io/) For building the frontend without using much JS
-- [ViewComponents](https://viewcomponent.org) Framework for building components
-- [LookBook](https://github.com/ViewComponent/lookbook) Previewing Rails view components
-- [Tailwind CSS](https://tailwindcss.com/) Utility-First CSS framework
-- [Vite JS](https://github.com/ElMassimo/vite_ruby) Build tool for modern web applications
 
-### Testing
-- [RSpec](https://github.com/rspec/rspec-rails) test framework for Ruby On Rails
-- [Capybara](https://github.com/teamcapybara/capybara) simplify the integration testing process
-- [Factory Bot](https://github.com/thoughtbot/factory_bot) Library for setting up test data
-- [Faker](https://github.com/faker-ruby/faker) Create dummy data for your tests
-
-### Development
-- [Rubocop](https://github.com/rubocop/rubocop) Ruby code style checking tool
-- [ERB Formatter](https://github.com/nebulab/erb-formatter) format and standardize ERB code
-- [Table Print](https://github.com/arches/table_print) print tables in the rails console
-- [Better Errors](https://github.com/BetterErrors/better_errors) provides a better error page
-
-### Security
-- [Devise](https://github.com/heartcombo/devise) Authentication solution for Rails
-- [Rolify](https://github.com/RolifyCommunity/rolify) For Roles management
-- [Cancancan](https://github.com/CanCanCommunity/cancancan) Authorization library for Ruby
+## 💬 Social Networks
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yonhaime)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonhaime)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonhaime)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yonhaime)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yonhaime)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yonhaime)
