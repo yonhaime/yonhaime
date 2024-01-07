@@ -34,17 +34,6 @@
 ![NewRelic](https://img.shields.io/badge/-New_Relic-333333?style=flat&logo=newrelic)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=2479e7)
-![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0080ff)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
-![vscode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=visualstudio&logoColor=0080ff)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=ff5d01)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=Cypress&logoColor=fff)
-
 
 ## 💬 Social Networks
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yonhaime)
