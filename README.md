@@ -1,5 +1,5 @@
 # About Me
-📌 Ruby on Rails, StimulusJS, Tailwind & Hotwire<br>⚡ After Effects, Adobe Premier & Figma<br>⚔️ Videojuegos, Series & Peliculas
+📌 Ruby On Rails, Tailwind & Hotwire<br>⚡ Davinci Resolve, Fusion & Figma<br>⚔️ Videogames, Series & Movies
 
 ## 💡 Tech Stack
 
