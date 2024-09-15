@@ -16,7 +16,7 @@
 ![Stimulus](https://img.shields.io/badge/-Stimulus-333333?style=flat&logo=stimulus)
 ![Turbo](https://img.shields.io/badge/-Turbo-333333?style=flat&logo=turbo)
 ![ReactJS](https://img.shields.io/badge/-React_JS-333333?style=flat&logo=react)
-![AstroJS](https://img.shields.io/badge/-Astro_JS-333333?style=flat&logo=astro)
+![AstroJS](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=ffca28)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 
@@ -24,7 +24,7 @@
 ![Cloudfalre](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![GitHub](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
 ![NewRelic](https://img.shields.io/badge/-New_Relic-333333?style=flat&logo=newrelic)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
