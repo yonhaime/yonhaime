@@ -21,10 +21,10 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Cloudfalre](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=8e4bf1)
-![GitHubActions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![NewRelic](https://img.shields.io/badge/-New_Relic-333333?style=flat&logo=newrelic)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
