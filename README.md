@@ -4,10 +4,10 @@
 ## 💡 Tech Stack
 
 ![Rails](https://img.shields.io/badge/-Ruby_On_Rails-333333?style=flat&logo=rubygems)
-![PocketBase](https://img.shields.io/badge/-Pocket_Base-333333?style=flat&logo=pocketbase)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 ![SupaBase](https://img.shields.io/badge/-SupaBase-333333?style=flat&logo=supabase)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=459546)
+![Node.js](https://img.shields.io/badge/-Node_JS-333333?style=flat&logo=node.js&logoColor=459546)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=0080ff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
@@ -24,7 +24,7 @@
 ![Cloudfalre](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github)
 ![NewRelic](https://img.shields.io/badge/-New_Relic-333333?style=flat&logo=newrelic)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
